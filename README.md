@@ -3,9 +3,6 @@
 ## Deskripsi
 Menggunakan dataset publik ulasan Shopee untuk mengkategorikan sentimen: positif, negatif, netral.
 
-## Dataset
-Link dataset: `shopee_reviews.csv` (diupload dari Kaggle)
-
 ## Tahapan Analisis
 1. Load & pembersihan data  
 2. Tokenisasi & normalisasi  
